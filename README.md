@@ -13,3 +13,5 @@ vivado版本2019.1
 ![ScreenShot00009](https://user-images.githubusercontent.com/85046315/151135097-2d8a4cf3-4069-444e-bbdd-de3bfac32a84.png)
 
 注意：这里的扬声器用开发版上的一个led小灯替代
+
+qq:1402938689@qq.com
