@@ -1,2 +1,8 @@
 # fpga/ego1
-可以在依元素 ego1 开发板上面运行的项目
+下载project_1.zip获取完整工程
+项目名称：简易闹钟系统
+操作系统：win10
+vivado版本2019.1
+具体实现功能：
+![ScreenShot00009](https://user-images.githubusercontent.com/85046315/151135097-2d8a4cf3-4069-444e-bbdd-de3bfac32a84.png)
+（这里的蜂鸣器用开发版上的一个led小灯替代）
